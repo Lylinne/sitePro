@@ -1,0 +1,25 @@
+img {
+	 -webkit-filter: saturate(200%); 
+	 width: 100%;
+}
+h1{
+	margin-left: 40%;
+	font-size: 4em;
+	margin-bottom: 70%;
+}
+#logo {
+	position:absolute;
+	
+}
+p{
+	margin-left: 25%;
+	margin-top: 10%;
+	font-size: 3em;
+}
+.style{
+	text-align: center;
+	position: absolute;
+	top: 35px;
+	font-family: Gabriola, "Gentium Basic", Georgia; 
+	color:#FFFFFF;
+}
